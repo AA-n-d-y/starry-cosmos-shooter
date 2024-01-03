@@ -1,7 +1,7 @@
 # Starry Cosmos Shooter
 
 A game where the user is a spaceship that can move in an orbit around a planet, with the objective of hitting a moving ball with beams to gain the highest number of points possible. 
-There are also stars surrounding the planet, and if the spaceship hits even one of the stars, the game will end. These programs were written in C++, and they used SDL 2 to help create the game.
+There are also stars surrounding the planet, and if the spaceship hits even one of the stars, the game will end. The game is written in C++ and it used SDL 2 to help with its creation.
 
 
 ## Controls
