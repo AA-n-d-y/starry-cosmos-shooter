@@ -5,7 +5,7 @@ There are also stars surrounding the planet, and if the spaceship hits even one 
 <br> <br>
 
 Here is a short clip of some gameplay: <br>
-[![Gameplay]()](https://github.com/AA-n-d-y/space-shooter-game/assets/138430862/24e94296-dd45-4611-8401-5345d79a8dc6)
+<video src= "https://github.com/AA-n-d-y/space-shooter-game/assets/138430862/7506b326-26b2-4ac2-b362-97844f574591"> </video>
 <br> <br>
 
 ## Controls
