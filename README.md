@@ -14,7 +14,7 @@ There are also stars surrounding the planet, and if the spaceship hits even one 
 
 ## How to run the game (for Windows only)
 
-1. **First, install all of the included files and also install the files from the Resources section.** <br> <br>
+1. **First, install all of the included files and also install the files from the Resources section. Users should also have minGW installed.** <br> <br>
 
 2. In the main directory, you should have **the two cpp files and hpp file**, the **Makefile**, the **gameimages folder**,
    and the **Roboto folder**, which contains **Roboto-Regular.ttf**. <br> <br>
