@@ -36,12 +36,7 @@ Here is a short clip of some gameplay: <br>
 6. Furthermore, paste into the main directory **all of the .dll files from SDL, SDL images, and SDL ttf.** They can be found in the <br>
    **x86_64-w64-mingw32/bin/** directory for each SDL. <br> <br>
    
-7. The photo below represents what the directory should look like once everything is done correctly.
-   **The files inside the subfolder called include are not shown in this image due to the sheer number of them.**
-   Make sure the formatting of everything is the same as in the photo or else the game will not run properly. <br> <br>
-   ![Example](https://github.com/AA-n-d-y/Personal-Projects/assets/138430862/3225ae34-8036-4693-bd72-b6884f90d12f) <br> <br>
-   
-8. **Finally, to run the game, open the terminal, type in make all and press enter, then type in ./game and press enter. After that, the game should be working as intended.
+7. **Finally, to run the game, open the terminal, type in make all and press enter, then type in ./game and press enter. After that, the game should be working as intended.
    If for some reason the game crashes or fails to load, re-enter ./game and press enter until it works.**
 
 
